@@ -29,5 +29,6 @@ fib(0)
 fib(7.4)
 fib("fib(10)")
 fib(1)
+print(-3)
 
 
